@@ -1,6 +1,6 @@
 ## Purple rain
 
-## :link: Where
+### :link: Where
 
 Project can be found here: https://priceless-mirzakhani-445b23.netlify.app/
 
